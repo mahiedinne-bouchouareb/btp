@@ -1,0 +1,48 @@
+.mfond2 {
+    background-image: url(http://www.leprestatairediamant.com/design/fond-le-prestataire-diamant.png);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    }
+
+  .titre1{
+      text-align: center;align-items: center;
+      margin-left: 150px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: bold;
+      letter-spacing: 10px;
+      font-size: 70px;
+      box-shadow:  15px 15px 6px  darkgray  ;
+      width: 80%;
+     
+  } 
+  .profils{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+       
+ }
+.perssone{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 60px;
+    text-align: center;
+    margin-left: 20px;
+    padding-right: 20px;
+    box-shadow:  15px 15px 6px  darkgray  ;
+   
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width:250px ;
+    height: 250px;
+}
+.gras{
+    font-weight: bold;
+    
+}
